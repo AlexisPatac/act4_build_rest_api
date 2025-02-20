@@ -1,0 +1,16 @@
+{
+    "583c883e-61d1-4109-a4ee-2b789a53da19": {
+        "id": "583c883e-61d1-4109-a4ee-2b789a53da19",
+        "name": "AkoCLint",
+        "price": 99999,
+        "quantity": 1,
+        "image": "akoclint.img"
+    },
+    "1c42d82c-8b0e-4212-bc0d-b0ded07d7e3f": {
+        "id": "1c42d82c-8b0e-4212-bc0d-b0ded07d7e3f",
+        "name": "AkooClintPinakGwapo",
+        "price": 9999999999,
+        "quantity": 1,
+        "image": "akoclintpinakagwapo0.img"
+    }
+}
